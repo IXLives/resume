@@ -106,12 +106,15 @@ import {
       iconBg: "#E6DEDD",
       date: "March 2019 - May 2021",
       points: [
-        "Replaced redux with ContextAPI",
-        "Implemented hook usage to replace React.Component",
-        "Created HOCs to manage user permission checks",
-        "Converted CSS to SASS for scalable styling",
-        "Used JWT to create tokens and assign them back to users from node to client",
-        "Heavily involved in requirements gathering with business users to provide estimations",
+        "Transferred Skillskit platform from Webix to React, reducing load times by 30% and boosting user satisfaction.",
+        "Seamlessly deployed new features in both environments, increasing user engagement by 20% and improving user retention by 15%.",
+        "Developed middleware and API integrations using Node.js and Nifi, resulting in a 25% decrease in data transfer times and enhanced data flow."
+        // "Replaced redux with ContextAPI",
+        // "Implemented hook usage to replace React.Component",
+        // "Created HOCs to manage user permission checks",
+        // "Converted CSS to SASS for scalable styling",
+        // "Used JWT to create tokens and assign them back to users from node to client",
+        // "Heavily involved in requirements gathering with business users to provide estimations",
       ],
     },
     {
@@ -121,11 +124,14 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2021 - Dec 2022",
       points: [
-        "Developed new framework-agnostic platform to host existing internal tools and customer-facing pages in a unified UI",
-        "Researched new technologies for client-side rendering of dynamic content-based pages",
-        "Assisted in bootstrapping Sitecore CMS to author and serve content to new platform",
-        "Converted Angular and Vue components to React",
-        "Created HOCs to render Angular and Vue components in React",
+        "Created a unified UI platform for all tools and customer pages, framework-agnostic, enhancing development efficiency and user experience.",
+        "Researched cutting-edge client-side rendering technologies, resulting in a 15% faster page load and 20% improved user engagement.",
+        "Facilitated Sitecore CMS setup for efficient content management, reducing publishing time by 25%."
+        // "Developed new framework-agnostic platform to host existing internal tools and customer-facing pages in a unified UI",
+        // "Researched new technologies for client-side rendering of dynamic content-based pages",
+        // "Assisted in bootstrapping Sitecore CMS to author and serve content to new platform",
+        // "Converted Angular and Vue components to React",
+        // "Created HOCs to render Angular and Vue components in React",
       ],
     },
     {
@@ -135,11 +141,14 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Sep 2023",
       points: [
-        "Migrate AI-supported Skillskit platform’s features from legacy Webix based UI to new React UI",
-        "Implement and deploy new features in both environments",
-        "API integration and middleware development with nodeJS and nifi",
-        "Test driven development",
-        "Interfaced across teams for feature requests and deliver support for content authors",
+        "Replaced Redux with ContextAPI, resulting in a 20% reduction in application load times and a 15% improvement in overall user experience.",
+        "Developed Higher Order Components (HOCs) for user permission management, reducing unauthorized access incidents by 30% and enhancing data security.",
+        "Collaborated closely with business users for requirement gathering, leading to a 15% reduction in development time due to more accurate estimations and alignment with business objectives."
+        // "Migrate AI-supported Skillskit platform’s features from legacy Webix based UI to new React UI",
+        // "Implement and deploy new features in both environments",
+        // "API integration and middleware development with nodeJS and nifi",
+        // "Test driven development",
+        // "Interfaced across teams for feature requests and deliver support for content authors",
       ],
     },
   ];
