@@ -49,6 +49,7 @@ export {
   nodejs,
   reactjs,
   redux,
+  remotasks,
   tailwind,
   typescript,
   threejs,
