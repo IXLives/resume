@@ -25,6 +25,7 @@ import titan from "./company/titan.png";
 import xfinity from "./company/xfinity.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import remotasks from "./company/remotasks.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
