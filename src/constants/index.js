@@ -9,6 +9,7 @@ import {
     css,
     reactjs,
     redux,
+    remotasks,
     tailwind,
     nodejs,
     mongodb,
@@ -99,6 +100,18 @@ import {
   ];
   
   const experiences = [
+    {
+      title: 'Freelance AI Trainer',
+      company_name: 'Remotasks @ ScaleAI',
+      icon: remotasks,
+      iconBg: "#E6DEDD",
+      date: "October 2023 - Present",
+      points: [
+        "Evaluated responses for technical veracity, ensuring accuracy, reliability and adherence to prompt requirements",
+        "Verified executability of AI generated solutions",
+        "Ensured clarity and conciseness of AI outputs"
+      ]
+    },
     {
       title: "React.js Developer",
       company_name: "Titan Technologies",
