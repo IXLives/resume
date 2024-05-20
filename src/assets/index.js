@@ -30,8 +30,10 @@ import remotasks from "./company/remotasks.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import apmgod from './apmgod.png'
 
 export {
+  apmgod,
   logo,
   backend,
   creator,
