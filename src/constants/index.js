@@ -20,6 +20,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    bofa,
     threejs,
   } from "../assets";
   
@@ -101,12 +102,24 @@ import {
   ];
   
   const experiences = [
+        {
+      title: 'React Developer V',
+      company_name: 'Bank of America',
+      icon: bofa,
+      iconBg: "#E6DEDD",
+      date: "July 2024 - Present",
+      points: [
+        "Developed new UI components to Fintech standards with React and ChakraUI",
+        "Test Driven Development, triage and fixes of bugs and unintended functionality",
+        "Interfaced with stakeholders for planning and development of UI features"
+      ]
+    },
     {
       title: 'Freelance AI Trainer',
       company_name: 'Remotasks @ ScaleAI',
       icon: remotasks,
       iconBg: "#E6DEDD",
-      date: "October 2023 - Present",
+      date: "October 2023 - July 2024",
       points: [
         "Evaluated responses for technical veracity, ensuring accuracy, reliability and adherence to prompt requirements",
         "Verified executability of AI generated solutions",

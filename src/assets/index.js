@@ -26,6 +26,7 @@ import xfinity from "./company/xfinity.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import remotasks from "./company/remotasks.png";
+import bofa from "./company/bofa.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -63,4 +64,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  bofa,
 };
