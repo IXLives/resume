@@ -9,7 +9,6 @@ import {
     html,
     css,
     reactjs,
-    redux,
     remotasks,
     tailwind,
     nodejs,
@@ -17,9 +16,6 @@ import {
     git,
     titan,
     xfinity,
-    carrent,
-    jobit,
-    tripguide,
     bofa,
     threejs,
   } from "../assets";
