@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: apmgod,
-    source_code_link: "https://github.com/ixlives/apmgod",
+    source_code_link: "https://apmgod.dev",
   },
 ];
 
